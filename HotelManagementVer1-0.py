@@ -269,7 +269,7 @@ def RoomEnquiry():
 
 def Contact():
           print("\n\n============================== CONTACT INFORMATION ==============================")
-          print("\n\t\t Project Name : R.A.V HOTEL MANAGEMENT SYSTEM ")
+          print("\n\t\t Project Name : R.P HOTEL MANAGEMENT SYSTEM ")
           print("\n\t\t Developed By : RUMMAN PARVEZ ")
           print("\n\t\t E-Mail       : r.photelgwalior@gmail.com")
 choice=7
